@@ -17,6 +17,6 @@ If one wants to run this in a local environment, they should make sure that each
 
 ## Authors
 
-- Caviglia Matteo (513026)
-- Sofia Gaia Formenti (514495)
+- Caviglia Matteo
+- Sofia Gaia Formenti
 
